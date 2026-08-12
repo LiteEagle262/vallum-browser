@@ -1,5 +1,5 @@
 {
-  "name": "@vallum/browser",
+  "name": "@liteeagle226/browser",
   "version": "0.1.0",
   "description": "Zero-build browser bundle for the Vallum SDK",
   "type": "module",
@@ -33,7 +33,7 @@
     "prepack": "npm run build && node ../../scripts/prepare-package-license.mjs .",
     "postpack": "node ../../scripts/cleanup-package-license.mjs ."
   },
-  "dependencies": { "@vallum/client": "^0.1.0" },
+  "dependencies": { "@liteeagle226/client": "^0.1.0" },
   "devDependencies": { "vite": "^8.2.1", "vitest": "^4.1.10", "typescript": "^7.0.2" },
   "engines": { "node": ">=20" },
   "publishConfig": { "access": "public", "provenance": true }

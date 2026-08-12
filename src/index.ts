@@ -1,10 +1,10 @@
 export {
   VallumRenderRef,
   createVallumClient,
-} from "@vallum/client";
+} from "@liteeagle226/client";
 
 export type {
   MountOptions,
   VallumClient,
   VallumClientOptions,
-} from "@vallum/client";
+} from "@liteeagle226/client";

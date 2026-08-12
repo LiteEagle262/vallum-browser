@@ -9,6 +9,6 @@ export default defineConfig({
       formats: ["es"],
       fileName: () => "index.js",
     },
-    rollupOptions: { external: ["@vallum/client"] },
+    rollupOptions: { external: ["@liteeagle226/client"] },
   },
 });
