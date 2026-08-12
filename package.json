@@ -35,7 +35,7 @@
     "postpack": "node ../../scripts/cleanup-package-license.mjs ."
   },
   "dependencies": { "@vallum/client": "^0.1.0" },
-  "devDependencies": { "vite": "^8.2.1", "vitest": "^4.1.10", "typescript": "^5.9.2" },
+  "devDependencies": { "vite": "^8.2.1", "vitest": "^4.1.10", "typescript": "^7.0.2" },
   "engines": { "node": ">=20" },
   "publishConfig": { "access": "public", "provenance": true }
 }
