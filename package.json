@@ -6,11 +6,10 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vallum-proxy/vallum.git",
-    "directory": "packages/vallum-browser"
+    "url": "git+https://github.com/LiteEagle262/vallum-browser.git"
   },
-  "homepage": "https://github.com/vallum-proxy/vallum#readme",
-  "bugs": "https://github.com/vallum-proxy/vallum/issues",
+  "homepage": "https://github.com/LiteEagle262/vallum-browser#readme",
+  "bugs": "https://github.com/LiteEagle262/vallum-browser/issues",
   "keywords": ["vallum", "browser", "vanilla-js", "html", "security", "sdk"],
   "files": ["dist", "README.md"],
   "main": "./dist/index.js",
